@@ -7,7 +7,7 @@ import static utils.Actions.*;
 
 public class Home extends BasePage {
 
-    @FindBy(css = "input[title=\"Szukaj\"]")
+    @FindBy(css = "input[title=\"Szsukaj\"]")
     private WebElement searchInput;
 
     public Home() {
